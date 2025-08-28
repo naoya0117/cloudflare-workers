@@ -1,0 +1,3 @@
+[submodule "forward-email-worker"]
+	path = forward-email-worker
+	url = git@github.com:naoya0117/cloudflare-forward-email-worker.git
